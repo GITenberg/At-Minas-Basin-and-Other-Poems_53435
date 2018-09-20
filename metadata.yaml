@@ -1,0 +1,26 @@
+_repo: At-Minas-Basin-and-Other-Poems_53435
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rand, Theodore H. (Theodore Harding)
+    alias: Rand, Theodore Harding
+    birthdate: 1835
+    deathdate: 1900
+    gutenberg_agent_id: '32326'
+    url: http://www.gutenberg.org/2009/agents/32326
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Harding_Rand
+description: ''
+gutenberg_issued: '2016-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian poetry -- 19th century'
+- !lcc 'PS'
+- GITenberg
+title: At Minas Basin, and Other Poems
+url: http://www.gutenberg.org/ebooks/53435
